@@ -1,0 +1,309 @@
+{
+    "commonContents": {
+        "title": "SAKTHICUPS | Paper Cup Manufacturer",
+        "copyrightSiteName": "Shakthi Cups 2018"
+    },
+    "headBanner": {
+        "logoURL": "img/logo.png",
+        "navList": [
+            {
+                "name": "HOME",
+                "linkRef": "#home"
+            },
+            {
+                "name": "ABOUT US",
+                "linkRef": "#about-us"
+            },
+            {
+                "name": "PRODUCTS",
+                "linkRef": "#products"
+            },
+            {
+                "name": "TECHNOLOGY",
+                "linkRef": "#technology"
+            },
+            {
+                "name": "CLIENTS",
+                "linkRef": "#clients"
+            },
+            {
+                "name": "CONTACT US",
+                "linkRef": "#contact"
+            }
+        ],
+        "BannerHeader": "WELCOME TO SAKTHI ABINAVE -<br>  PAPER CUPS AND PRODUCTS",
+        "BannerDesc": "SakthiAbinave is India’s leading High quality paper cups and paper food container manufacture. The Vision of SakthiAbinave is quality first and price next.",
+        "BannerBtn": {
+            "content": "Get Started",
+            "linkTo": "#about-us"
+        }
+    },
+    "aboutUs": {
+        "aboutHead": "Few Words About Us",
+        "aboutDesc": "SAKTHI ABINAV A Branded establishment of M/S Shakthicups group which was founded in 2004. For manufacturing , marketing and distribution of different verities of disposable food packaging products.  We have managed to establish our products to prove ourselves worthy to meet Indian customers need. Our products ranges from hot and cold beverages cups, ice cream cups, double wall cusp, ripple and food packaging containers. Our Innovative well – trained professionals work together to achieve client needs  and make sure the final products are up to their expectations and help them to get the best value in return . We updated the latest global development and trend in design , technology and manufacturing system to offer excellent quality products and to ensure prompt professional and well-mannered services to our client at fair price",
+        "aboutCategories": [
+            {
+                "aboutCatImg":"img/custom.jpg",
+                "iconClass": "fa fa-shopping-bag",
+                "header": "Custom Design",
+                "desc": "We offer to promote brand building of your products by our customizable personalized paper cups which will perfectly in line with your current marketing and promotional requirements. <br> Our design experts will help to build and develop custom design paper cups based on customer need and expectations  "
+            },
+            {
+                "aboutCatImg":"img/tech.jpg",
+                "iconClass": "fa fa-photo",
+                "header": "Technology ",
+                "desc": "We had state of art technology machines and infrastructure can produce 20 million cups production capacity per month. we had the facility of reel to cups forwarding facility to cater customer need and expectation "
+            },
+            {
+                "aboutCatImg":"img/machines.jpg",
+                "iconClass": "fa fa-bar-chart",
+                "header": "Machines",
+                "desc": "We are having state of art on line FLEXO printing machines, silting, sheeting, punching, 20 cup forming machines and packing machines"
+            }
+        ]
+    },
+    "productsContents":{
+        "productsHead":"PRODUCTS",
+        "productsDesc":"We manufacture Bio degradable, safe and hygiene paper cups. Our Product ranges from Hot and Cold paper cups and paper food containers with all different varieties and thickness in Branded and plain cups and food container",
+        "productsCategories":[
+            {
+                "productGrpImgUrl":"img/products/singlewallpapercups.png",
+                "iconClass":"fa fa-desktop",
+                "productKey":"LOREM_IPSUM",
+                "header":"SINGLE WALL PAPER CUPS",
+                "desc":"It can serve more cups of coffee, tea, , milk and hot chocolates in all vending divisions and branded coffee shops .The cups size ranges from 2.5 oz to 24 oz",
+                "productsList":[
+                    {
+                        "header":"SINGLE WALL PAPER CUPS",
+                        "desc":"It can serve more cups of coffee, tea, , milk and hot chocolates in all vending divisions and branded coffee shops .The cups size ranges from 2.5 oz to 24 oz",
+                        "productImgUrl":"img/products/SINGLEWALLPAPERCUPS.jpg"
+                    }
+                ]
+            },
+            {
+                "productGrpImgUrl":"img/products/Single Wall Cold Paper Cups.jpg",
+                "iconClass":"fa fa-bar-chart",
+                "productKey":"DOLOR_SITEMA",
+                "header":"SINGLE WALL COLD PAPER CUPS",
+                "desc":"It can serve more cups of cold beverages cold coffee, ice tea, , milk shakes  in all vending divisions and branded food and beverages shops .The cups size ranges from 70z to 240 oz",
+                "productsList":[
+                    {
+                        "header":"SINGLE WALL COLD PAPER CUPS",
+                        "desc":"It can serve more cups of cold beverages cold coffee, ice tea, , milk shakes  in all vending divisions and branded food and beverages shops .The cups size ranges from 70z to 240 oz",
+                        "productImgUrl":"img/products/SINGLE WALL COLD PAPER CUPS_DET.png"
+                    }
+                ]
+            },
+            {
+                "productGrpImgUrl":"img/products/SingleWallIceCreamCups_1.jpg",
+                "iconClass":"fa fa-paper-plane",
+                "productKey":"SED_UT_PERSPICIATIS",
+                "header":"SINGLE WALL ICE CREAM CUPS",
+                "desc":"It can serve more cups of ice creams for branded food and hot beverages shops. The cups size ranges from 80  0z to 120 oz",
+                "productsList":[
+                    {
+                        "header":"SINGLE WALL ICE CREAM CUPS",
+                        "desc":"It can serve more cups of ice creams for branded food and hot beverages shops. The cups size ranges from 80  0z to 120 oz",
+                        "productImgUrl":"img/products/SingleWallIceCreamCups_Det.png"
+                    }
+                ]
+            },
+            {
+                "productGrpImgUrl":"img/products/Double Wall Paper Cups.jpg",
+                "iconClass":"fa fa-photo",
+                "productKey":"MAGNI_DOLORES",
+                "header":"DOUBLE WALL PAPER CUPS",
+                "desc":"It can serve for longer lasting hot beverages branded food and beverages shops. The cups size ranges from 70z to 240 oz",
+                "productsList":[
+                    {
+                        "header":"DOUBLE WALL PAPER CUPS",
+                        "desc":"It can serve for longer lasting hot beverages branded food and beverages shops. The cups size ranges from 70z to 240 oz",
+                        "productImgUrl":"img/products/DOUBLE WALL PAPER CUPS.gif"
+                    }
+                ]
+            },
+            {
+                "productGrpImgUrl":"img/products/Custom Design_1.jpg",
+                "iconClass":"fa fa-road",
+                "productKey":"NEMO_ENIM",
+                "header":"CUSTOM DESIGN ",
+                "desc":"We can design and develop customized   disposable paper cups products based on customer needs and requirements with agreed timelines ",
+                "productsList":[
+                    {
+                        "header":"CUSTOM DESIGN ",
+                        "desc":"We can design and develop customized   disposable paper cups products based on customer needs and requirements with agreed timelines ",
+                        "productImgUrl":"img/products/CustomDesign.jpg"
+                    }
+                ]
+            },
+            {
+                "productGrpImgUrl":"img/products/Food Container and Lids.jpg",
+                "iconClass":"fa fa-shopping-bag",
+                "productKey":"EIUSMOD_TEMPOR",
+                "header":"FOOD CONTAINER AND LIDS",
+                "desc":"We can design and develop customized   disposable paper container products based on customer needs and requirements with agreed timelines",
+                "productsList":[
+                    {
+                        "header":"FOOD CONTAINER AND LIDS",
+                        "desc":"We can design and develop customized   disposable paper container products based on customer needs and requirements with agreed timelines",
+                        "productImgUrl":"img/products/FOODCONTAINERAND LIDS.png"
+                    }
+                ]
+            }
+        ]    
+    },
+    "clientsContents": {
+        "clientsHead": "Clients",
+        "clientsDesc": "Customer first is the Mantra for Sakthiabinav. We not only value our customer need we go extra mile to help them to arrive best possible products and solution to suits their business needs. we proud to have long term relationship with some of the best in class retail , food and beverages , hospitality , and corporate clients",
+        "clientsCategories": [
+            {
+                "clientImgURL": "img/clients/Arun.jpg",
+                "clientName": "Boomerang",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/Barista.gif",
+                "clientName": "Bru",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/Bru.jpg",
+                "clientName": "Havmor",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/Chai.jpg",
+                "clientName": "Lipton",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/CoffeeDay.png",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/escents.jpg",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/FreshHonest.jpg",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/Harmor.png",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/Kikkan.jpg",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/Knorr.png",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/Kwality.png",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/Lavazza.png",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/Nilgiris.jpg",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/RC.jpg",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/RedLabel.jpg",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/TajMahal.jpg",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/truevalue.png",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/UL.png",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            },
+            {
+                "clientImgURL": "img/clients/vybhav.png",
+                "clientName": "McDonnell",
+                "clientRole": ""
+            }
+        ]
+    },
+    "technologyContents": {
+        "technologyHead": "Technology",
+        "technologyDesc": "We manufacturing facility has state of art latest technology machines and infrastructure with capacity of 20 Million cups per month. This will help us to delivery leak proof with optimum stiffness to hold.",
+        "technologyCategories": [
+            {
+                "technologyImgURL": "img/technology/tech_1.jpg",
+                "technologyName": ""
+            },
+            {
+                "technologyImgURL": "img/technology/tech_2.jpg",
+                "technologyName": ""
+            },
+            {
+                "technologyImgURL": "img/technology/tech_3.jpg",
+                "technologyName": ""
+            },
+            {
+                "technologyImgURL": "img/technology/tech_4.jpg",
+                "technologyName": ""
+            }
+        ]
+    },
+    "contactContents": {
+        "contactHead": "CONTACT",
+        "contactDesc": "<div><p>Do contact us to serve you better. You can reach using <a target='_blank' rel='noopener noreferrer' href='https://www.google.com/maps/search/54+Kalyanasundaram+Street+Vendipalayam+Erode'>Locate Us.</a></p></div>",
+        "mapLatitude": "11.325358",
+        "mapLongitude": "77.740828",
+        "address": " 54, Kalyanasundaram Street, Vendipalayam, Erode - 638 002 Tamil Nadu India",
+        "mailId": "shakthicups@gmail.com",
+        "contactNumber": "+91 98427 39639,<br>+91 98652 39839,<br>+91 98652 13147",
+        "socialLinks": [
+            {
+                "className": "twitter",
+                "iconClass": "fa fa-twitter",
+                "linkTo": "#"
+            },
+            {
+                "className": "facebook",
+                "iconClass": "fa fa-facebook",
+                "linkTo": "#"
+            },
+            {
+                "className": "google-plus",
+                "iconClass": "fa fa-google-plus",
+                "linkTo": "#"
+            },
+            {
+                "className": "linkedin",
+                "iconClass": "fa fa-linkedin",
+                "linkTo": "#"
+            }
+        ]
+    }
+}
